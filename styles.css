@@ -9,7 +9,7 @@ body {
 header, footer {
   background-color: #222222;
   color: black;
-  padding: 1rem;
+  padding-bottom: 20px;
   text-align: center;
 }
 
